@@ -1,0 +1,10 @@
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/hw_grpc_proto.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_client.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_server.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_callback_client.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_callback_server.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_async_client.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_async_client2.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/greeter_async_server.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/edit_cache.dir
+/home/mars/.local/grpc/examples/cpp/helloworld/build/CMakeFiles/rebuild_cache.dir
