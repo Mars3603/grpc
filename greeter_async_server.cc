@@ -104,6 +104,8 @@ class ServerImpl final {
         // Spawn a new CallData instance to serve new clients while we process
         // the one for this CallData. The instance will deallocate itself as
         // part of its FINISH state.
+        // 在处理当前请求的同时，创建一个新的 CallData 实例，
+        // 以便为新的客户端请求提供服务。这样做可以保证服务器能够同时处理多个请求，而不需要等待当前请求完成。
         new CallData(service_, cq_);
 
         // The actual processing.
